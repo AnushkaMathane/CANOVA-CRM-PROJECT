@@ -18,7 +18,7 @@ export default function Settings() {
   const [error, setError] = useState("");
   const [success, setSuccess] = useState("");
 
-  const API_BASE = "http://localhost:5000";
+  const API_BASE = "https://canova-crm-project.onrender.com";
 
   useEffect(() => {
     async function fetchAdmin() {
