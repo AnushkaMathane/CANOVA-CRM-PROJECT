@@ -3,7 +3,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import "./profile.css";
 import { FaHome, FaUser, FaCalendarAlt, FaUsers } from "react-icons/fa";
 
-const API_BASE = "http://localhost:5000/api/employees";
+const API_BASE = "https://canova-crm-project.onrender.com/api/employees";
 
 const Profile = () => {
   const [formData, setFormData] = useState({
