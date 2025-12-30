@@ -1,0 +1,16 @@
+name,email,phone,date,status,type,scheduledDate,scheduledTime
+Rahul Rauit,dwadw@example.com,+91-9604794022,2025-12-05,unassigned,Warm,2025-12-05,10:30
+Mitali,mitali@globalretail.com,+91-8012345678,2025-11-20,assigned,Hot,2025-11-22,15:00
+Raunak Asmitha,sameer.khan@example.com,+91-9123456780,2025-10-05,Ongoing,Cold,,
+Abhishek kothe,hello@noassign.com,+1-555-0100,2025-09-15,unassigned,Warm,
+Priya Sharma,priya.sharma@example.com,+91-9876543210,2025-12-01,assigned,Hot,2025-12-31,10:00
+Rahul Deshmukh,rahul.d@example.com,+91-9123456780,2025-11-28,Ongoing,Warm,2026-01-02,14:30
+Neha Joshi,neha.j@example.com,+91-9988776655,2025-10-15,Closed,Cold,,
+Amit Raikar,amit.r@example.com,+91-8899001122,2025-12-05,assigned,Warm,2025-12-30,16:00
+Sana Khan,sana.k@example.com,+91-7766554433,2025-09-21,Ongoing,Hot,2026-01-05,11:15
+Arjun Patil,arjun.p@example.com,+91-6655443322,2025-12-12,assigned,Cold,2026-01-01,09:45
+Meera Iyer,meera.i@example.com,+91-5544332211,2025-08-30,Closed,Warm,,
+Kabir Singh,kabir.s@example.com,+91-4433221100,2025-12-20,Ongoing,Hot,2026-01-10,15:00
+Anaya Roy,anaya.r@example.com,+91-3322110099,2025-11-11,assigned,Warm,2025-12-29,13:00
+Sameer Kulkarni,sameer.k@example.com,+91-2211009988,2025-07-19,Closed,Cold,,
+
